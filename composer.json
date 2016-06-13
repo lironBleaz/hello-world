@@ -1,0 +1,11 @@
+{
+    "name": "lironBleaz/hello-world",
+    "require": {
+        
+    }
+    "autoload": {
+        "psr-4": {
+            "liron\\": "src/"
+        }
+    }
+}
