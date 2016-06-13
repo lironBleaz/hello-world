@@ -1,5 +1,5 @@
 <?php 
-
+namespace bleaz;
 
 class Bleaz{
 
