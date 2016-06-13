@@ -1,8 +1,6 @@
 <?php
-
 namespace liron;
-
-class MyClass(){
+class MyClass{
 
 	public function main(){
 		echo "main function\n";
